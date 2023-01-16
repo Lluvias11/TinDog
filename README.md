@@ -9,3 +9,5 @@ The Purpose of TinDog is to find dates for your pets
 1. Download the files and place into a folder
 
 2. Open
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Lluvias11/TinDog)
